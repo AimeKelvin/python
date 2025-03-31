@@ -1,4 +1,4 @@
 mylist = ["a","b","c","d","e","f"]
-mylist.clear()
+newlist = mylist.copy()
 
-print(mylist)
+print(newlist)
