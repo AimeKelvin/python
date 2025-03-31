@@ -1,6 +1,4 @@
-#lists
+mylist = ["a","b","c","d","e","f"]
+mylist.append("g")
 
-mylist = [1,2,3,4,5]
-newlist = [x for x in mylist if x ==2]
-
-print(newlist)
+print(mylist)
